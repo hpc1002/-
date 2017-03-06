@@ -1,0 +1,93 @@
+{
+  "code": 0,
+  "msg": {
+    "id": 1,
+    "first_name": "Admin",
+    "last_name": "Person",
+    "login": "admin",
+    "email": "admin@domain.tld",
+    "permissions": "",
+    "is_activated": false,
+    "activated_at": null,
+    "last_login": "2017-01-05 09:47:15",
+    "created_at": "2016-09-07 10:31:56",
+    "updated_at": "2017-01-05 09:47:15",
+    "is_superuser": 1
+  },
+  "name": "admin",
+  "type": 1,
+  "course": [
+    {
+      "name": "相同名字abc",
+      "id": 27,
+      "period": [
+        {
+          "id": 27,
+          "name": "php基础",
+          "type": 1,
+          "parent_id": 0,
+          "sequence": 7,
+          "course_id": 27,
+          "created_at": "2016-09-26 17:06:40",
+          "updated_at": "2016-12-30 17:40:33",
+          "status": 1,
+          "push": []
+        },
+        {
+          "id": 143,
+          "name": "1228",
+          "type": 1,
+          "parent_id": 0,
+          "sequence": 2,
+          "course_id": 27,
+          "created_at": "2016-12-28 14:14:38",
+          "updated_at": "2017-01-04 11:38:03",
+          "status": 2,
+          "push": []
+        },
+        {
+          "id": 146,
+          "name": "20161228",
+          "type": 1,
+          "parent_id": 0,
+          "sequence": 3,
+          "course_id": 27,
+          "created_at": "2016-12-28 17:20:28",
+          "updated_at": "2016-12-30 12:28:46",
+          "status": 1,
+          "push": []
+        }
+      ]
+    },
+    {
+      "name": "设计师超值VIP课程6",
+      "id": 60,
+      "period": [
+        {
+          "id": 67,
+          "name": "课程进度期",
+          "type": 1,
+          "parent_id": 0,
+          "sequence": 1,
+          "course_id": 60,
+          "created_at": "2016-10-12 09:35:44",
+          "updated_at": "2016-10-12 09:35:44",
+          "status": 1,
+          "push": []
+        },
+        {
+          "id": 69,
+          "name": "2017",
+          "type": 1,
+          "parent_id": 0,
+          "sequence": 2,
+          "course_id": 60,
+          "created_at": "2016-10-27 10:13:01",
+          "updated_at": "2016-10-27 10:13:01",
+          "status": 1,
+          "push": []
+        }
+      ]
+    }
+  ]
+}

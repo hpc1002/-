@@ -1,0 +1,143 @@
+{
+  "code": 0,
+  "msg": {
+    "id": 23,
+    "first_name": "",
+    "last_name": "",
+    "login": "wqlteacher1223",
+    "email": "wqlteacher1223@qq.com",
+    "permissions": "",
+    "is_activated": false,
+    "activated_at": null,
+    "last_login": "2017-01-05 16:04:21",
+    "created_at": "2016-12-23 15:00:21",
+    "updated_at": "2017-01-05 16:04:21",
+    "is_superuser": 0
+  },
+  "name": "wqlteacher1223",
+  "type": 0,
+  "course": [
+    {
+      "name": "课程vip_cjl",
+      "id": 62,
+      "period": [
+        {
+          "id": 72,
+          "name": "课程vip——cjl",
+          "type": 1,
+          "parent_id": 0,
+          "sequence": 1,
+          "course_id": 62,
+          "created_at": null,
+          "updated_at": "2017-01-04 16:57:03",
+          "status": 1,
+          "push": {
+            "url": "",
+            "secretKey": ""
+          }
+        },
+        {
+          "id": 74,
+          "name": "20161103",
+          "type": 1,
+          "parent_id": 0,
+          "sequence": 2,
+          "course_id": 62,
+          "created_at": "2016-11-03 10:08:32",
+          "updated_at": "2016-11-03 10:08:32",
+          "status": 1,
+          "push": {
+            "url": "",
+            "secretKey": ""
+          }
+        },
+        {
+          "id": 78,
+          "name": "20161109",
+          "type": 1,
+          "parent_id": 0,
+          "sequence": 3,
+          "course_id": 62,
+          "created_at": "2016-11-09 09:56:46",
+          "updated_at": "2016-11-09 09:56:46",
+          "status": 1,
+          "push": {
+            "url": "",
+            "secretKey": ""
+          }
+        },
+        {
+          "id": 79,
+          "name": "20161120",
+          "type": 1,
+          "parent_id": 0,
+          "sequence": 4,
+          "course_id": 62,
+          "created_at": "2016-11-09 10:01:58",
+          "updated_at": "2016-11-09 10:01:58",
+          "status": 1,
+          "push": {
+            "url": "",
+            "secretKey": ""
+          }
+        },
+        {
+          "id": 84,
+          "name": "20161124期",
+          "type": 1,
+          "parent_id": 0,
+          "sequence": 5,
+          "course_id": 62,
+          "created_at": "2016-11-24 18:23:52",
+          "updated_at": "2016-11-24 18:23:52",
+          "status": 1,
+          "push": {
+            "url": "",
+            "secretKey": ""
+          }
+        },
+        {
+          "id": 161,
+          "name": "20170105期",
+          "type": 1,
+          "parent_id": 0,
+          "sequence": 6,
+          "course_id": 62,
+          "created_at": "2017-01-05 11:18:09",
+          "updated_at": "2017-01-05 11:18:09",
+          "status": 1,
+          "push": {
+            "url": "rtmp://video-center.alivecdn.com/dapengdev/",
+            "secretKey": "L20170105111809_134?auth_key=1483632261-0-0-b48c436e2bbff61308ed9772031e96d8&vhost=live.dev.dapengjiaoyu.com"
+          }
+        }
+      ]
+    },
+    {
+      "name": "先生你好",
+      "id": 98,
+      "period": [
+        {
+          "id": 137,
+          "name": "20161227",
+          "type": 1,
+          "parent_id": 0,
+          "sequence": 1,
+          "course_id": 98,
+          "created_at": "2016-12-27 15:36:56",
+          "updated_at": "2016-12-27 15:36:56",
+          "status": 1,
+          "push": {
+            "url": "",
+            "secretKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "name": "测试一个关联课程套餐的",
+      "id": 28,
+      "period": []
+    }
+  ]
+}
