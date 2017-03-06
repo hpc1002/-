@@ -4,7 +4,9 @@
 2. 图片加载：glide
 3. 下拉刷新：谷歌的SwipeRefreshLayout控件
 4. 采用easyrecyclerview控件展示新闻列表
+
 ## 二、About Me
-1. 邮箱：hpc1002@163.com<br>
+1. 邮箱：hpc1002@163.com
+
 ## 三、声明
   数据接口来源聚合数据，仅用于非商业用途，如做为商业使用，请自行联系接口提供方。本人概不负责。
